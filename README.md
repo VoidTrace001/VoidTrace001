@@ -49,49 +49,34 @@
 ---
 
 ## `> CURRENT_MISSION.exe`
-```bash
-[TAMAL@VOIDTRACE ~]$ cat mission_status.txt
 
-  TARGET 01 » AI & Machine Learning........[▓▓▓▓▓▓▓▓░░] 80%
-  TARGET 02 » Cybersecurity & Hacking......[▓▓▓▓▓▓░░░░] 60%
-  TARGET 03 » Python Development...........[▓▓▓▓▓▓▓▓▓░] 90%
-  TARGET 04 » Web Security & Pentesting....[▓▓▓▓▓░░░░░] 50%
-  TARGET 05 » React & Frontend.............[▓▓▓▓▓▓▓░░░] 70%
-
-[TAMAL@VOIDTRACE ~]$ echo $MOTTO
-  "Always learning. Always building. Never stopping."
-
-[TAMAL@VOIDTRACE ~]$ _
-```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=1000&color=00FF41&width=750&height=100&lines=[TAMAL%40VOIDTRACE+~]%24+cat+mission_status.txt;TARGET+01+»+AI+%26+ML+...............[▓▓▓▓▓▓▓▓░░]+80%25;TARGET+02+»+Cybersecurity+.........[▓▓▓▓▓▓░░░░]+60%25;TARGET+03+»+Python+Dev+...........[▓▓▓▓▓▓▓▓▓░]+90%25;TARGET+04+»+Web+Security+.........[▓▓▓▓▓░░░░░]+50%25;TARGET+05+»+React+%26+Frontend+......[▓▓▓▓▓▓▓░░░]+70%25;echo+%24MOTTO;Always+learning.+Always+building.+Never+stopping." />
+</div>
 
 <br/>
 
 ---
 
 ## `> SKILLS_MATRIX.scan`
-```bash
-[TAMAL@VOIDTRACE ~]$ ./scan_skills.sh
-> SCANNING OPERATOR SKILL DATABASE...
-> RESULTS FOUND. DISPLAYING...
-```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=2000&color=00FF41&width=600&height=60&lines=[TAMAL%40VOIDTRACE+~]%24+./scan_skills.sh;>+SCANNING+OPERATOR+SKILL+DATABASE...;>+10+SKILLS+DETECTED.+DISPLAYING+NOW..." />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,react,docker,linux,git,fastapi,opencv,tensorflow,flask&theme=dark&perline=5" />
 </div>
-```bash
-> SCAN COMPLETE. 10 SKILLS DETECTED.
-```
 
 <br/>
 
 ---
 
 ## `> GITHUB_STATS.fetch`
-```bash
-[TAMAL@VOIDTRACE ~]$ ./fetch_github_data.sh --user VoidTrace001
-> DECRYPTING GITHUB VAULT...
-> ACCESS GRANTED. FETCHING DATA...
-```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=2000&color=00FF41&width=600&height=60&lines=[TAMAL%40VOIDTRACE+~]%24+./fetch_github_data.sh;>+DECRYPTING+GITHUB+VAULT...;>+ACCESS+GRANTED.+FETCHING+DATA..." />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoidTrace001&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=008f11&text_color=00ff41&border_radius=10&hide=prs,issues,contribs&count_private=true" width="48%" />
@@ -103,10 +88,10 @@
 ---
 
 ## `> ACHIEVEMENTS.log`
-```bash
-[TAMAL@VOIDTRACE ~]$ cat achievements.log
-> LOADING TROPHY DATABASE...
-```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=2000&color=00FF41&width=600&height=60&lines=[TAMAL%40VOIDTRACE+~]%24+cat+achievements.log;>+LOADING+TROPHY+DATABASE...;>+TROPHIES+UNLOCKED.+DISPLAYING..." />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VoidTrace001&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" />
@@ -117,10 +102,10 @@
 ---
 
 ## `> ACTIVITY_GRID.render`
-```bash
-[TAMAL@VOIDTRACE ~]$ ./render_activity.sh
-> PLOTTING ACTIVITY MAP...
-```
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=2000&color=00FF41&width=600&height=60&lines=[TAMAL%40VOIDTRACE+~]%24+./render_activity.sh;>+PLOTTING+ACTIVITY+MAP...;>+GRID+RENDERED+SUCCESSFULLY." />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VoidTrace001&bg_color=0d1117&color=00ff41&line=008f11&point=00ff41&area=true&hide_border=true" />
@@ -131,48 +116,30 @@
 ---
 
 ## `> ACTIVE_PROJECTS.db`
-```bash
-[TAMAL@VOIDTRACE ~]$ ls -la /projects/
 
-  drwxr-xr-x  Face-Authentication-System
-              └─ High quality face auth system using CV
-  
-  drwxr-xr-x  Gesture-Recognition
-              └─ Real-time gesture & eye tracking with MediaPipe
-  
-  drwxr-xr-x  Intrusion-Detection-System-with-AI
-              └─ AI powered network IDS using ML & FastAPI
-  
-  drwxr-xr-x  Smart-Camera-Attendance-System
-              └─ Enterprise biometric face recognition system
-
-[TAMAL@VOIDTRACE ~]$ echo "4 projects loaded. More incoming..."
-```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=1000&color=00FF41&width=750&height=120&lines=[TAMAL%40VOIDTRACE+~]%24+ls+-la+/projects/;drwxr-xr-x+Face-Authentication-System;drwxr-xr-x+Gesture-Recognition;drwxr-xr-x+Intrusion-Detection-System-with-AI;drwxr-xr-x+Smart-Camera-Attendance-System;echo+'4+projects+loaded.+More+incoming...'" />
+</div>
 
 <br/>
 
 ---
 
 ## `> CONNECT.sh`
-```bash
-[TAMAL@VOIDTRACE ~]$ ./connect_operator.sh
 
-  [01] 🌐 PORTFOLIO  »  https://portfolio-hackerz.vercel.app
-  [02] 🐙 GITHUB     »  https://github.com/VoidTrace001
-
-[TAMAL@VOIDTRACE ~]$ echo "All channels secured with SSL/TLS 🔒"
-```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&pause=1000&color=00FF41&width=700&height=100&lines=[TAMAL%40VOIDTRACE+~]%24+./connect_operator.sh;[01]+🌐+PORTFOLIO+»+portfolio-hackerz.vercel.app;[02]+🐙+GITHUB+»+github.com/VoidTrace001;echo+'All+channels+secured+with+SSL/TLS+🔒'" />
+</div>
 
 <br/>
 
 ---
 
 <div align="center">
-```bash
-> ALL SYSTEMS OPERATIONAL
-> MATRIX INTEGRITY: 100%
-> OPERATOR VOIDTRACE001 — SIGNING OFF...
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&pause=1000&color=00FF41&center=true&width=600&height=80&lines=>+ALL+SYSTEMS+OPERATIONAL;>+MATRIX+INTEGRITY%3A+100%25;>+OPERATOR+VOIDTRACE001+—+SIGNING+OFF..." />
+</div>
+
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=VoidTrace001&color=00ff41&style=for-the-badge&label=AGENTS+TRACED)
 
